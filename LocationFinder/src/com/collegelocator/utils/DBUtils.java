@@ -11,10 +11,6 @@ import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.MongoClient;
 
-/**
- * @author Krithika SM
- *
- */
 public class DBUtils {
 
 	public static volatile MongoClient mongo = null;
